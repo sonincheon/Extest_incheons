@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class ex38 {
+
     public ArrayList<Integer> solution(int[] array, int[][] commands) {
         ArrayList<Integer> answer =new ArrayList<>();
         for(int[] a : commands){
